@@ -1,4 +1,4 @@
-# mu-super-website
+# my-super-website
 
 <!DOCTYPE htlm>
 <htlm>
@@ -7,6 +7,6 @@
   <title>My super Website<title>
 <head>
 <body>
-  I wanna get a bistoufly!
+  <h1>I wanna get a bistoufly!<h1>
 <body>
 <htlm>
